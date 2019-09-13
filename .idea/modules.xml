@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KSPAD.iml" filepath="$PROJECT_DIR$/KSPAD.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kspadUralElectro.iml" filepath="$PROJECT_DIR$/kspadUralElectro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poishadow/kspadUralElectro.poishadow.iml" filepath="$PROJECT_DIR$/poishadow/kspadUralElectro.poishadow.iml" />
       <module fileurl="file://$PROJECT_DIR$/poishadow/poishadow.iml" filepath="$PROJECT_DIR$/poishadow/poishadow.iml" />
       <module fileurl="file://$PROJECT_DIR$/usbSerialForAndroid/usbSerialForAndroid.iml" filepath="$PROJECT_DIR$/usbSerialForAndroid/usbSerialForAndroid.iml" />
     </modules>
